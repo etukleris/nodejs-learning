@@ -1,0 +1,30 @@
+{
+  "name": "node-learning",
+  "version": "1.0.0",
+  "description": "sample project to learn nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etukleris/nodejs-learning.git"
+  },
+  "keywords": [
+    "node",
+    "learning"
+  ],
+  "author": "Edgaras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etukleris/nodejs-learning/issues"
+  },
+  "homepage": "https://github.com/etukleris/nodejs-learning#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
